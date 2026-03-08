@@ -260,3 +260,9 @@ From the analysis, several key insights emerged:
 This project strengthened my **SQL** knowledge while providing practical insights into the data analyst job market. The analysis offers a clear direction for prioritizing skill development and making informed career decisions.
 
 For aspiring data analysts, focusing on high-demand and high-paying skills can significantly improve competitiveness in the job market. Overall, this project highlights the importance of continuous learning, skill enhancement, and adapting to evolving trends in the field of data analysis
+
+
+## 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rihaan/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/RIHAN-S)
